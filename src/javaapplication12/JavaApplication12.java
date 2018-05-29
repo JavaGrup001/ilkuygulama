@@ -15,7 +15,7 @@ public class JavaApplication12 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // buraya yeni bir girdi.
+        // buraya yeni bir girdi. yeni deneme
     }
     
 }
